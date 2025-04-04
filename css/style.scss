@@ -19,19 +19,19 @@ html{
     font-size: 28px;
 }
 main{
-    width: 1400px; 
+    width: 1200px; 
     margin: 0 auto;
 }
 
 .scribe-title{
-    padding: 60px 0 0 0;
+    padding: 40px 0 0 0;
     text-align: center;
 }
 
 .scribe-section{
     text-align: center;
     color: var(--fc-db);
-    margin: 60px 0 30px 0;
+    margin: 40px 0 20px 0;
 }
 
 .scribe-step{
@@ -52,9 +52,9 @@ main{
         line-height: 160%;
     }
     background-color: white;
-    padding: 30px 80px;
-    border-radius: 20px 20px 0 0;
-    margin: 80px 0 0 0;
+    padding: 20px 60px;
+    border-radius: 15px 15px 0 0;
+    margin: 60px 0 0 0;
     box-shadow : var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow);
     .scribe-step-text{margin: 0; padding: 15px 0 0 0;}
     .scribe-step-tip{padding: 15px 0 0 0;}
